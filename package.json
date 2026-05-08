@@ -1,0 +1,10 @@
+{
+  "name": "vehicle-maintenance-scheduler",
+  "version": "1.0.0",
+  "description": "Campus hiring evaluation backend microservice for vehicle maintenance scheduling",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "test": "node --test"
+  }
+}
